@@ -1,0 +1,1 @@
+Time         Wind_Dir   Wind_Spd  Wind_Gust     Hum_In   Humidity    Temp_In       Temp  Raw_Barom         UV      Solar  Dew_Point  DailyRain   RainRate  Date
